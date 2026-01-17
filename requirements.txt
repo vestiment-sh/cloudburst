@@ -1,5 +1,8 @@
 pandas
 numpy
-websocat
+langchain_ollama
 streamlit
 langgraph[ollama]
+langgraph
+langchain-community 
+ollama
